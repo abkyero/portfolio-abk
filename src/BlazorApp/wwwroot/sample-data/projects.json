@@ -1,22 +1,22 @@
 [
-  {
-    "title": "10 Things To Know About Azure Static Web Apps 🎉",
-    "description": "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    "url": "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i"
-  },
-  {
-    "title": "Web Development for Beginners",
-    "description": "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    "url": "https://github.com/microsoft/web-dev-for-beginners"
-  },
-  {
-    "title": "My Resume Site",
-    "description": "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    "url": "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website"
-  },
-  {
-    "title": "GitHub Codespaces and github.dev",
-    "description": "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    "url": "https://www.youtube.com/watch?v=c3hHhRME_XI"
+   {
+ "title": "Registered Nurse 🎉",
+   "description": "Certified and licenced Registered Nurse with Nursing and Midwifery Council Of Nigeria.",
+   "url": "https://www.nmcn.gov.ng/"
+ },
+ {
+   "title": "My Digital Badges",
+   "description": "Certified Social Media Marketing Professional.",
+   "url": "https://www.credly.com/badges/7a447315-890d-4980-822b-79324e5f6e74/public_url"
+ },
+    {
+     "title": "My Resume Site",
+     "description": "Created resume with canva. Includes my experience and caring abilities.",
+     "url": "https://abkyero.my.canva.site"
+   },
+    {
+     "title": "My Google Drive Resume",
+     "description": "My PDF Resume which can be downloaded for your information.",
+     "url": "https://drive.google.com/drive/folders/16kld8EXpLfZmjC9tiO86jL7aXcWe0ew1"
   }
 ]
